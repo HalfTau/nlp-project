@@ -1,0 +1,1 @@
+The game is unplayable... Loading crash after character select. And if you pass through, graphic are glitchy and framerate is like 3 FPS max with a Intel i7, nVidia 970 and 16Gb RAM... this should be remove from steam
