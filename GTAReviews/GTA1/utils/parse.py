@@ -1,10 +1,10 @@
 import json 
 import re
 
-file = open("GTA1reviews.jl", "r")
+file = open("..\GTA1reviews.jl", "r")
 i = 1
 for line in file:
-    fileout = open("parsed1GTA" + str(i) + ".txt", 'w')
+    fileout = open("..\parsed1GTA" + str(i) + ".txt", 'w')
     lineParse = json.loads(line)
 
     unicodestring = lineParse['text']
