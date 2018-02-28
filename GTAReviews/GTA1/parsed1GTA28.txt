@@ -1,1 +1,1 @@
-Fast action, dark humor, and machineguns... What else do you need to have a fun game?
+Fast/NNP action/NN ,/, dark/JJ humor/NN ,/, and/CC machineguns/NNS .../: What/WP else/RB do/VBP you/PRP need/VBP to/TO have/VB a/DT fun/NN game/NN ?/. 

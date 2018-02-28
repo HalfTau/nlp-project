@@ -1,1 +1,1 @@
-Press Tab everyday
+Press/NNP Tab/NNP everyday/JJ 

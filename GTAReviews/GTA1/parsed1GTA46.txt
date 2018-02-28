@@ -1,1 +1,1 @@
-Bumped into the leader of a bunch of bald guys in orange, became their leader, led them onto a live rail and set them on fire when they were in the middle of getting fused, doubled my 4X profit for murder. D
+Bumped/NNP into/IN the/DT leader/NN of/IN a/DT bunch/NN of/IN bald/NN guys/NNS in/IN orange/NN ,/, became/VBD their/PRP$ leader/NN ,/, led/VBD them/PRP onto/IN a/DT live/JJ rail/NN and/CC set/VB them/PRP on/IN fire/NN when/WRB they/PRP were/VBD in/IN the/DT middle/NN of/IN getting/VBG fused/VBN ,/, doubled/VBD my/PRP$ 4X/CD profit/NN for/IN murder/NN ./. D/NN 

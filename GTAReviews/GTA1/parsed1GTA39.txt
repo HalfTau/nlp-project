@@ -1,1 +1,1 @@
-Fun game. Kill frenzy!!!!!
+Fun/NNP game/NN ./. Kill/NNP frenzy/NN !/. !/. !/. !/. !/. 

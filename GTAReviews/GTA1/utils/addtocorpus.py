@@ -4,4 +4,4 @@ corpus_root = '..\\'
 wordlists = PlaintextCorpusReader(corpus_root, 'parsed1GTA[0-9]+.txt')
 print(wordlists.fileids())
 print(wordlists.words(wordlists.fileids()[0]))
-print(wordlists.words(wordlists.fileids()[99]))
+print(wordlists.raw())

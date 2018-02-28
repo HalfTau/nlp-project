@@ -1,1 +1,1 @@
-Bubba has the best Storyline, Modern Graphics at its finest, fine holiday fun, and good for the whole family! I approve this message.
+Bubba/NNP has/VBZ the/DT best/JJS Storyline/NN ,/, Modern/NNP Graphics/NNP at/IN its/PRP$ finest/JJS ,/, fine/JJ holiday/NN fun/NN ,/, and/CC good/JJ for/IN the/DT whole/JJ family/NN !/. I/PRP approve/VBP this/DT message/NN ./. 

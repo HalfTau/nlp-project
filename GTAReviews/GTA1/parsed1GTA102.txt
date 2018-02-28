@@ -1,1 +1,1 @@
-The game itself is actually free, so the savings are passed on to YOU.
+The/DT game/NN itself/PRP is/VBZ actually/RB free/JJ ,/, so/IN the/DT savings/NNS are/VBP passed/VBN on/IN to/TO YOU/NNP ./. 

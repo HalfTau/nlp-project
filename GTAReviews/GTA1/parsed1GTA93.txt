@@ -1,1 +1,1 @@
-Cant go wrong with the game that started it all
+Cant/NNP go/VBP wrong/JJ with/IN the/DT game/NN that/WDT started/VBD it/PRP all/DT 

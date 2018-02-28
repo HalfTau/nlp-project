@@ -1,1 +1,1 @@
-G, Grand Theft Auto. Bringing crime to the masses, in a fun way.
+G/NNP ,/, Grand/NNP Theft/NNP Auto/NNP ./. Bringing/VBG crime/NN to/TO the/DT masses/NNS ,/, in/IN a/DT fun/JJ way/NN ./. 

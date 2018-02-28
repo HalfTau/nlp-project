@@ -1,1 +1,1 @@
-Grand Theft Auto   GTA    ,     Grand Theft Auto.        ,            ,       .
+Grand/NNP Theft/NNP Auto/NNP GTA/NNP ,/, Grand/NNP Theft/NNP Auto/NNP ./. ,/, ,/, ./. 
