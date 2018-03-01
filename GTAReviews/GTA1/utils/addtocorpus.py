@@ -1,24 +1,38 @@
 from nltk.corpus import PlaintextCorpusReader
-from nltk.text import Text
-from nltk import FreqDist
+from nltk import sent_tokenize
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.corpus import stopwords
 
 corpus_root = '..\\'
 wordlists = PlaintextCorpusReader(corpus_root, 'parsed1GTA[0-9]+.txt')
-print(wordlists.fileids())
-print(wordlists.words(wordlists.fileids()[0]))
-print(wordlists.raw())
-textList = Text(wordlists.words(wordlists.fileids()[0]))
-##documents = [list(wordlists.words(fileid))
-##            for fileid in wordlists.fileids()]
-##print(documents)
-##
-##all_words = []
-##
-##for w in wordlists.words():
-##    all_words.append(w.lower())
-##    
-##all_words = FreqDist(all_words)
-##
-##word_features = list(all_words.keys())[:100]
-##
-##print(word_features)
+
+#-------Code below is just messing around --------------
+#print(wordlists.fileids())
+#print(wordlists.sents(wordlists.fileids()[0]))
+#print(wordlists.raw())
+
+sid = SentimentIntensityAnalyzer()
+stop_Words = set(stopwords.words('english'))
+print(stop_Words)
+all_sents = []
+all_sents = sent_tokenize(wordlists.raw(wordlists.fileids()[3]))
+space = " "
+for s in all_sents:
+    s = s.split()
+    s = [w for w in s if not w in stop_Words]
+    s = space.join(s)
+    print(s)
+    ss = sid.polarity_scores(s)
+    for k in sorted(ss):
+        print('{0}: {1}, '.format(k, ss[k]), end='')
+    print()
+    
+    
+print()    
+print("With stop words: ")   
+for s in all_sents:
+    print(s)
+    ss = sid.polarity_scores(s)
+    for k in sorted(ss):
+        print('{0}: {1}, '.format(k, ss[k]), end='')
+    print()
