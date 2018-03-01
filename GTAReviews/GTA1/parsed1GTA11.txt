@@ -1,1 +1,1 @@
-Framerate/NNP stutters/NNS too/RB much/JJ to/TO be/VB playable/JJ ./. I/PRP cant/VBP seem/VBP to/TO find/VB any/DT fixes/NNS for/IN it/PRP ./. 
+Framerate stutters too much to be playable . I cant seem to find any fixes for it . 

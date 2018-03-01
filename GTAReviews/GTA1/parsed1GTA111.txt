@@ -1,1 +1,1 @@
-Old/NNP but/CC good/JJ !/. 
+Old but good ! 

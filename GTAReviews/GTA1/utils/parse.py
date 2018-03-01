@@ -13,9 +13,9 @@ for line in file:
     string = unicodestring
     string2 = re.sub(r'[^a-z, A-Z, 0-9, \,, ., !, ?, /]*', '', string)
     string2 = nltk.word_tokenize(string2)
-    string2 = nltk.pos_tag(string2)
+    #string2 = nltk.pos_tag(string2)
     for t in string2:
-        string3 = t[0] + '/' + t[1] + ' '
+        string3 = t + ' '
         print(string3)
         fileout.write(string3)
 

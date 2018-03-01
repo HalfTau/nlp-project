@@ -1,1 +1,1 @@
-FARTS/NNP all/DT day/NN long/RB !/. 
+FARTS all day long ! 

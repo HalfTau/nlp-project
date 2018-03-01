@@ -1,1 +1,1 @@
-Grand/NNP Theft/NNP Auto/NNP is/VBZ now/RB old/JJ enough/RB to/TO play/VB Grand/NNP Theft/NNP Auto/NNP ./. 
+Grand Theft Auto is now old enough to play Grand Theft Auto . 

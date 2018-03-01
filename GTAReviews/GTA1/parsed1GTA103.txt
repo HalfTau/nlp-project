@@ -1,1 +1,1 @@
-Dont/NNP get/VB it/PRP ./. 
+Dont get it . 
