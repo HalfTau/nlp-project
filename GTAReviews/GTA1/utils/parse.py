@@ -1,4 +1,4 @@
-import json 
+import json
 import re
 import nltk
 
@@ -9,16 +9,12 @@ for line in file:
     lineParse = json.loads(line)
 
     unicodestring = lineParse['text']
-    
+
     string = unicodestring
     string2 = re.sub(r'[^a-z, A-Z, 0-9, \,, ., !, ?, /]*', '', string)
-    string2 = nltk.sent_tokenize(string2)
-    
-    #string2 = nltk.pos_tag(string2)
-    for t in string2:
-        string3 = t + ' '
-        print(string3)
-        fileout.write(string3)
+
+    print(string2)
+    fileout.write(string2)
 
     print("------------------------------")
     i+= 1
