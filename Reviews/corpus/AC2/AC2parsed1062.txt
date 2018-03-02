@@ -1,0 +1,1 @@
+MAC VERSION  graphics resolution controls are broken.  It takes way too much work to get it running properly.  What a shame.

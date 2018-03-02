@@ -1,0 +1,1 @@
+It installs the wrong version of uplay. You have to go to ubisofts website to install the latest version of uplay, and only then will it work. I wish they would just update their game correctly, instead of selling a broken game that you have to figure out how to fix.

@@ -1,0 +1,1 @@
+Patch 1.05 instroduced low level of detail and drawdistance even on Ultra settings.   More blurry than ever before, closer drawing of textures and shadows or in some cases, whole pieces of buildings poping in your vewing range.

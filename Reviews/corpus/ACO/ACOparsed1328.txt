@@ -1,0 +1,1 @@
+Have just above the recommended settings for graphics and just below for CPU. Lucky to get 20fps on minimum standing still. Just being at the title screen uses 100 of my GPU

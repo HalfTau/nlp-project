@@ -1,0 +1,1 @@
+Someone at Ubisoft apparently still thinks tailthetarget missions are a good idea.  About a third of the retries failed immediately because npcs hostile to the tail target spawned at the same place as the target and immediately killed him.

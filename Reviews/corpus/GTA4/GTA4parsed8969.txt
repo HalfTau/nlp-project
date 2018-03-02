@@ -1,0 +1,1 @@
+WARNING, if you own windows 8 or 10, do not get this game. Windows Live does not work on those copies of windows, and this game so far does not run without it. I managed to install windows live using compatability, this allowed the game to launch also in compatability, but the game crashes instantly the moment I try to play.

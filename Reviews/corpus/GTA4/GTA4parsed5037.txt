@@ -1,0 +1,1 @@
+Game is completely unplayable. I had to edit .dll files and install GFWL just to launch the game and bypass a failing Social Club login even though my password was correct. then whenever i try to adjust any graphical setting in the options page, it immediately reverts it back to the lowest setting my PC can run GTAV on high settings, 60 FPS.

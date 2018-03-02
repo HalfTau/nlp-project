@@ -1,0 +1,1 @@
+Finally fixed it  works on Win 10. And doesnt freak out if GPU has more than 1 gig of memory. Still a bad port, though.At least now Im gonna be able to play a game I purchased more than a year ago.Hope the game is good.

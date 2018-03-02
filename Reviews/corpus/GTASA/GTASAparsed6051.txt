@@ -1,0 +1,1 @@
+It wont start... I get the error cannont find 800x600x32 video mode.

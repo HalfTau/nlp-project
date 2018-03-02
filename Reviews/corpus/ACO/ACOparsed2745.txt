@@ -1,0 +1,1 @@
+High CPU usage due to triple DRM, lied about HDR support, stutters.

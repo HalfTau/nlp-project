@@ -1,0 +1,1 @@
+Runs great with everything maxed but I had frame drops during the last few chapters of the game with a gtx 760 and an i7 3770. Thanks to the community I got it to work with  a xbox one controller too.

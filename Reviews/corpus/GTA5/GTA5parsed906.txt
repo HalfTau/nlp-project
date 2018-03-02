@@ -1,0 +1,1 @@
+It makes you do a stupid verification code. Im playing on a shared library and it tells me to enter a code. Please help

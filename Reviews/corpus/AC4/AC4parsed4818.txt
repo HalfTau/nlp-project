@@ -1,0 +1,1 @@
+Seems to support 5760x1080, but it only shows up on centre monitor 

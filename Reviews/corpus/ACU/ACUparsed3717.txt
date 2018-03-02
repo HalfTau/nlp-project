@@ -1,0 +1,1 @@
+SetupCPU i7 4790kR9 295x2 8Gb16 Gb RAM4K MonitorCustom in game setup for graphicsResolution  1440pEverything on Ultra High except Antialiasing set to x2 aproxamently 3447 FPSResolution  4KEverything on Ultra High except No Antialiasing aproxamently 2732 FPS some dips down to 20 at times but rare.Hope this helps everyone.

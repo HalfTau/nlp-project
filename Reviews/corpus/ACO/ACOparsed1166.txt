@@ -1,0 +1,1 @@
+Cant run the game... crashes everytime I create a new game after the loading, crashes at the graphics menu in the settings.

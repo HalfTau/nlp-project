@@ -1,0 +1,1 @@
+Not optimized for AMD unfortunately, takes GTX 1080 to get 60fpsWait for patchesEdit To clarify I mean it takes a GTX 1080 to get 60fps on max settings at 1080p, which is absurd because its a GTX 1080As of patch 1.05 performance is still bad.

@@ -1,0 +1,1 @@
+when you start up the game and play the intro scene, it stops working.doesnt matter if you skip it or not, the game wont play past the intro scene.it gives you an error and shuts the game down, end of the line.0/10.

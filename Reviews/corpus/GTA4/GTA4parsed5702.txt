@@ -1,0 +1,1 @@
+The FPS bug cks even on my GTX 1060, ive try with settings on medium vsync off and shadow off, the game run perfectly for 5 minutes after that, the FPS drops.I dont know if is a memory leak or something like that, but after 6 years from the release, a bug like that is just a joke.

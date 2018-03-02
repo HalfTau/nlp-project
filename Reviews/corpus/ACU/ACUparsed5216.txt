@@ -1,0 +1,1 @@
+In its current form it has really bad optimization and runs god awful. Average of 30fps to 50fps even on the lowest settings on a system that can play Crysis 3 and Battlefield 4 on High/Ultra. This is just Ubisoft being lazy and half

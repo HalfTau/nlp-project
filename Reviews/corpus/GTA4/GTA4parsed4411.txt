@@ -1,0 +1,1 @@
+How to make Grand Theft Auto IV work.1. Delete paul.dll in the game directory2. Download , put it in the directoryDone, a working game, with no DRM. Easy.they censored the fix I wrote, unbelievable. its X live less

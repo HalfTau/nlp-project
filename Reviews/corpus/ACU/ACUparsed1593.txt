@@ -1,0 +1,1 @@
+Terribly Optimized. Should not be getting 1020 FPS on a crossfired machine.

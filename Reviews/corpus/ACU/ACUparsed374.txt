@@ -1,0 +1,1 @@
+Mouse, keyboard movement are a disaster. The camera that follows the character does its own thing. Dont buy.

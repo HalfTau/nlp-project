@@ -1,0 +1,1 @@
+This game will not run character voices. There are no fixes for Windows 7 unless you have a 3rd party sound card, then maybe you have a chance

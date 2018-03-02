@@ -1,0 +1,1 @@
+Game plays great for me.  Just needed to install Silent Patch, enable VSync in the NVIDIA Control Panel, and turn off Frame Limiter for smooth 60FPS.Intro doesnt play due to limitations of fullscreen Direct3D under Windows Vista and later, but it isnt important.

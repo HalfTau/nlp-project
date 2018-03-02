@@ -1,0 +1,1 @@
+Stutter central with 8gb of ramEditHave to mess with nvidia control panel settings to stop the stutter aswell as turn on vsync in some cases

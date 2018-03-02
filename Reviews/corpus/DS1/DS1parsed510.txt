@@ -1,0 +1,1 @@
+This game has horrible compatibility issues with Windows 8.1I tried everything I could find to get it to work, it did not.When it crashes I have to manually shut down my PC by holding the power button down as it refuses to let me get to Task Manager.Maybe youll have better luck than me but I dont recommend it.

@@ -1,0 +1,1 @@
+getting 3040 fps using a GTX1080ti, i7 7700k with 16gb of RAM.and now, the game refuses to launch, crashing right after the assassins creed logo is shown.The game itself seemed fun before it stopped working altogether, although playing it at 30fps was not fun at all.

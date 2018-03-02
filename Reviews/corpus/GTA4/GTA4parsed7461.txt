@@ -1,0 +1,1 @@
+dont listen to the paul.dll things just go to rockstars website and download the latest patch.Then go to windows firewall with advanced settings and add an inbound and outbound rule for rockstar games social club executable allowing connection

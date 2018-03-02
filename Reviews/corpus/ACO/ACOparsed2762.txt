@@ -1,0 +1,1 @@
+I54690KNvidia 970 OC16 GB RAM500 GB SSDThis game ran terrible. It crashed multiple times on startup and benchmark. When I could benchmark it, my CPU was at 100. GPU seemed to handle it fine, but that bottleneck threw me into the low 40s on Medium. Then it crashed.This game is poorly optimized. Dont buy until they dedicate time to fixing it properly.

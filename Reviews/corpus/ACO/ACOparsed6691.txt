@@ -1,0 +1,1 @@
+After the patch 1.0.3 the game is now smooth but there is a input lag with the mouse. Another patch to fix this and for mor performance improvement will be good and I hope ubisoft will fix the high cpu usage. BUT NEED TO FIX HIGH CPU USAGE!!!

@@ -1,0 +1,1 @@
+Need a Uplay account.  Need to install Uplay software and keep it updated.  Have to type in the DLC keys cant copy paste.Runs steamservice.exe and Microsoft VC redistributable every time the game is run.  Opens Uplay whenever the game is open 170MB of RAMConsole port that should have just stayed on the console.

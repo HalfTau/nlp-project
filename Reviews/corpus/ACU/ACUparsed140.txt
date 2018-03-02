@@ -1,0 +1,1 @@
+Not Worth also you have to run a windows shell script to rename several files if you dont want the game to crash every 15 minutes on windows 10

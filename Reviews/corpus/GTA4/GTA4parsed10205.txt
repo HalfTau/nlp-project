@@ -1,0 +1,1 @@
+Tried on 2 different systems using both nVidia and ATI cards  game doesnt run.

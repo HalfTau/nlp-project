@@ -1,0 +1,1 @@
+For those who wonder the game runs fine with a intel i5  4590  a GTX 970. On Hight I get between 50/70 FPS which isnt perfect but suficient.

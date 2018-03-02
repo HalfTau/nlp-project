@@ -1,0 +1,1 @@
+This game has NO controller support for mac. And it kinda needs it.

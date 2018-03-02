@@ -1,0 +1,1 @@
+16 fps when not recording on low, 17 fps when recording on ultra

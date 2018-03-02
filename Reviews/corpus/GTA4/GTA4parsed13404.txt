@@ -1,0 +1,1 @@
+Game does not function properly. Does not recognize available video memory and so textures and city do not load. Game is UNPLAYABLE!!!

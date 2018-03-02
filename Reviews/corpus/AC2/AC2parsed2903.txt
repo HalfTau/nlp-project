@@ -1,0 +1,1 @@
+Assassins Creed 2 has an awesome story with lots of variety in it. The camplay if overal realy fluid, with some spots, special when climbing where you wish it was more intuitive. There is only the problem that the Game is not saved corectly. I fixed this by running it in compatibiltiy mode wich means that i had a windows 7 like window border even in fullscreen.

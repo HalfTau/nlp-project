@@ -1,0 +1,1 @@
+Be aware ths game does not properly support gamepads controllers on OSX

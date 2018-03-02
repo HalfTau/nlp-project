@@ -1,0 +1,1 @@
+Far too slow on my 6core R9 290X.Must need a Titan 1080 overclocked or something to run it at 1440p. Tried 1080p too but the CPU for some reason is what ends up getting taxed.

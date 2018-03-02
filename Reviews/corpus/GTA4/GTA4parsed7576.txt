@@ -1,0 +1,1 @@
+It wont start the game, and there are always issues with the login part

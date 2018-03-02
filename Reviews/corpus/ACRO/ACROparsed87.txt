@@ -1,0 +1,1 @@
+Crashes constantly on AMD 7950. Tried everything and I cant get it to work. Very disappointing.

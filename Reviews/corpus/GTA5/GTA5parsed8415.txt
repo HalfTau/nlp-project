@@ -1,0 +1,1 @@
+Finally, I could take a sleep while a game loads.

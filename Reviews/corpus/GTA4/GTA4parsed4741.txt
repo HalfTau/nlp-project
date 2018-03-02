@@ -1,0 +1,1 @@
+SecuROM activation is completely failing on Win 10. I am also unable to do an offline activation.So I guess its unplayable now.

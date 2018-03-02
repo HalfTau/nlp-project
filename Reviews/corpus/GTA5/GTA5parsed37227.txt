@@ -1,0 +1,1 @@
+The start up client keeps crashing after 50 hours

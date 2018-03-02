@@ -1,0 +1,1 @@
+With the surprising new update removing GFWL you can now use a graphics card with more than 2 GB of VRAM but the game still runs pretty badly with getting an average of 4045 fps with a GTX970.

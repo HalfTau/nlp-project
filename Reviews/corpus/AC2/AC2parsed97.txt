@@ -1,0 +1,1 @@
+Crippled with bugs on MacOS. Not an issue for most im sure, but if Ubisofts response to this issue is indicative of their approach to other bugs then i wouldnt waste my money on something that could stop working without warning.

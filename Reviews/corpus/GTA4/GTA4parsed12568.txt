@@ -1,0 +1,1 @@
+Works poorly on Windows wh 4 screens.

@@ -1,0 +1,1 @@
+VERY poor performance due to 3 layers of DRM embedded into the game. Im using an i76700K overclocked and a GTX 1080ti and the game barely pushes past 35 frames.

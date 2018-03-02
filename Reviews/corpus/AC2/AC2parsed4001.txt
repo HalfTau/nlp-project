@@ -1,0 +1,1 @@
+Subpar port of the console game. The controls are really hard to get a mastery of even after numerous tweaks and I found it poorly optimized.

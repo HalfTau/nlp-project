@@ -1,0 +1,1 @@
+Its a shame no work has been done to make this run on modern screens. The low res I could put up with, but theres no option for windowed mode. If you set fullscreenfalse as a launch option it works, but then theres graphics artifacting all over the screen. Cant alt tab or close the game properly after switching either. A shame, used to be a great game!

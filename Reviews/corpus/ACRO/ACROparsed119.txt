@@ -1,0 +1,1 @@
+random lag spikes that last for seconds. Happens every minute.

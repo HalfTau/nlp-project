@@ -1,0 +1,1 @@
+Great RPG that CAN be played coop if you put in launch options     zonematchtrue    Then enjoy the adventure with your other local farmers!Some have asked what is launch option.In your steam Library right click on your Dungeon Siege game Click on Properties Under the general tab click on Launch Options.In that window type in zonematchtrue

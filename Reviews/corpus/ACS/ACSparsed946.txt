@@ -1,0 +1,1 @@
+The game itself looks incredible but the amount of memory its using just to run is ridiculous. Even on the lowest setting Im using 3x the maximum memory AC expects to use.

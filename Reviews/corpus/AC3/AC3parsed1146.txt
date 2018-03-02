@@ -1,0 +1,1 @@
+Despite what seemed like a fun game set in an interesting time period,  devastating frame drops, averaging around 12, in the first city rendered it unplayable. This is even with slightly above recommended hardware. Even with commmunity recommended fixes, I was only able to raise my frames by about 3.

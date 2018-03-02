@@ -1,0 +1,1 @@
+I just bought a new VR capable machine with a 1080video card.  This game on my old computer with the GTX590 played in, and was listed as a 3d supported game.  Now the list of 3D supported games does not show this on the list, and I cannot play it in 3d.  Was it just too old for NVidia to make it compatible on the 1080?

@@ -1,0 +1,1 @@
+Does not work on Windows 10. Tried spending over an hour trying to fix it, and Im computer literate. Still no solid solutions.

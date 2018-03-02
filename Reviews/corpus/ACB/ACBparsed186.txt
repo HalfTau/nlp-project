@@ -1,0 +1,1 @@
+Users with windows 10 need to run this in windows 8 compatability mode.  I also run as administrator.  If the game loads, but the graphics do not adjust the screen resolution to a lower resolution  800 x 600.  If the graphics then work, but look bad in game, alter the settings with the in game options.  Working great for me now.  Good luck!

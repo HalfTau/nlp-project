@@ -1,0 +1,1 @@
+uplay is garbagebrowse local files, find the exe for the game and change compatibility to windows 7 and tick run as administrator.thumbs down becaause its ubisoft 

@@ -1,0 +1,1 @@
+It simply doesnt work, on my machine that can run wither 3 with out a problem, this cant run 5 minutes without crashing

@@ -1,0 +1,1 @@
+If youre a nvidia user and youre lagging try going to the control panel and enabling triple buffering and disable vsync in game and in the control panel.Overall I am still loving this game 10/10

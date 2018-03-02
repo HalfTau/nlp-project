@@ -1,0 +1,1 @@
+Poor and lazy port. Borderless Windowed mode only. No full screen. It strongly affected the performance of my GPU.Server is not avaiable. I cant activate my DLC or multiplay.

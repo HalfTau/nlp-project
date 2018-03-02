@@ -1,0 +1,1 @@
+The game has a really bad fram rate problem i set it to 60 fp and it was slow if you want to know what I mean look at my screemshot

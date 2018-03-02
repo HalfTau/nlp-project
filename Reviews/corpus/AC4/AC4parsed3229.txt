@@ -1,0 +1,1 @@
+After downloading, the Uplay loader let me sign in to my account, but then immediately crashed. After that, every time I tried to run the game, steam would just claim running for a few seconds, then immediately revert to being out of game.

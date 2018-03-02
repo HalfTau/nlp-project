@@ -1,0 +1,1 @@
+if it runs at more than 10 fps, go for it.

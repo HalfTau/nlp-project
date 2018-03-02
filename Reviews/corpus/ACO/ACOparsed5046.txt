@@ -1,0 +1,1 @@
+Drm Is killing fps on my gtx 1070 i7 7700k it dips to 20 fps at the most random times

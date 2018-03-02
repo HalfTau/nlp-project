@@ -1,0 +1,1 @@
+Do NOT buy this game if you are using a GTX 690 GPU. The game will stutter every 35 seconds and its untolerable. After some searching i found out that its poor game optimalisation with SLI, and that the way the game utilizes the gpu with the AI will drown one core while the other remains near idle. After a whole year this has still not been fixed. At least not for GTX 690

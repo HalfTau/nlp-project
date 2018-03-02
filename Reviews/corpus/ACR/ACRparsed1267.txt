@@ -1,0 +1,1 @@
+Run Assassins Creed Revelations as an administrator win 7.To do so, rightclick the shortcut on the desktop  and make the choice there.If prompted  UAC,  click on Yes.And that app need uplay account.

@@ -1,0 +1,1 @@
+Be careful!! There is a gameending bug halfway through with no fix If you dont defeat the dragon boss on your first try, it disappears and you cant move on.

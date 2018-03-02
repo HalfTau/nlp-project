@@ -1,0 +1,1 @@
+Mac OSX port runs pretty badly, crashes very often and usually after long missions  get used to saving every ten minutes

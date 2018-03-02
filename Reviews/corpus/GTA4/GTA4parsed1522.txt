@@ -1,0 +1,1 @@
+Horrible. When I launch it, my screen goes black and then it says no input device connected. I have to perform a hard reset of my computer to just get my computer to be detected again.

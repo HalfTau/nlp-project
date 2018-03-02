@@ -1,0 +1,1 @@
+Uplay DRM!Bugs, bugs, bugs!Uplay included with steam is not able to install. So you have to install manually the latest client from their website. Even then, you may install the game but the ACBSP.exe crashes on start.So do not waste your money.

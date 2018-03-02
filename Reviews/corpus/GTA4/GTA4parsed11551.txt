@@ -1,0 +1,1 @@
+on gtx 970  unless you tweak the lunch options and play about with nvidia settings, dont expect to have stable 60 maxed out... badly optimised/ported... great game overall like all the gta series, just the graphical part is the down side, not recommended for over 2gb VRAM cards, unless you know how to set the graphics on both the card and game well enough to get stable frames 

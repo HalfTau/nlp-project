@@ -1,0 +1,1 @@
+Runs better than Unity, you need a intel core i7 for no bottleneck if you have a GTX 970

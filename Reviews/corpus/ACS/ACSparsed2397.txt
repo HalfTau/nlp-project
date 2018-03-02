@@ -1,0 +1,1 @@
+Well, this game runs fine on my PC, I got stable 60 fps on very high setting. There is some slight fps drop in some places but overall, it is optimized enough. Maybe some patches or fixes will overcome those minor issues.

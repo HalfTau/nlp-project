@@ -1,0 +1,1 @@
+this game does not work on win 7 64 bit. it chooses to run at low res and it cannot be changed

@@ -1,0 +1,1 @@
+Performance abysmal on I7 6700, GTX 1070, 16gb RAM. CPU usage sits at 100 while GPU sits in the 60s, resulting in very choppy gameplay.Very poorly optimised, requested and recieved refund. Unacceptable.

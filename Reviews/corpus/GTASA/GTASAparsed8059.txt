@@ -1,0 +1,1 @@
+GTA San Andreas has many bugs. A terrain detail bug will sometimes turn the the environment and buildings green. Occasionally acessing the Esc menu will cause your mouse to not work. Other problems include weird ai actions and no autosave or quick saving capability. The game also frequently crashes after completing missions but before you can save.

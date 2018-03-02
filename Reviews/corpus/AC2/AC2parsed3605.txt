@@ -1,0 +1,1 @@
+The UPlay Launcher always crashed for me

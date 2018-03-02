@@ -1,0 +1,1 @@
+It isnt the fault of the modding community that your multiplayer networking design is so shoddy that certain modders are able to get around your feeble security.  Learn to write decent quality software.

@@ -1,0 +1,1 @@
+Managed to get working with W10 but poorly optimised and unplayable with constant flickering.R9390 StrixFX 8350Edit Reinstalled and works okay but there is occasional stutter. Cant believe it cant run at max with the gfx card I have!!

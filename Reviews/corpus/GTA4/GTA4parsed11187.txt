@@ -1,0 +1,1 @@
+Game crashes on load screen. When it works it messes up desktop graphics. When I quit the game it freezes entire PC forcing me to force shutdown.

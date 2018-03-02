@@ -1,0 +1,1 @@
+Update the game. Now fully works on Windows 8 and 10. 

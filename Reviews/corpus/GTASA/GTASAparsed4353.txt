@@ -1,0 +1,1 @@
+Game randomly crashes. Keep in mind, GTASA does not have an autosave, crashing means a potential rollback which will make any player cringe.

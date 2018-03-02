@@ -1,0 +1,1 @@
+runs in  40 fps with i7 4770k and 1080 and frezees twice in a minute

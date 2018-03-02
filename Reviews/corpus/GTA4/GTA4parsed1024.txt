@@ -1,0 +1,1 @@
+Simply does not work on Windows 10 since the Visual C redistributable it depends on is the 2005 variant which wont install.

@@ -1,0 +1,1 @@
+Game does not run at all under Windows 10.

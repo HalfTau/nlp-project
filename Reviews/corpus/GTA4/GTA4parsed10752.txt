@@ -1,0 +1,1 @@
+I appear to have an issue.When I attempt to logon to the game using the onscreen Social Club menu, under the status bar after I click play, I get the following messageSocial club login failed. Please try again later.Every now and then I manage to bypass the message and play, but later on at some point my game crashes.Any suggestions? This is by far annoying.

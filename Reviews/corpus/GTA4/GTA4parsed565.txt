@@ -1,0 +1,1 @@
+Could not make it work on Windows 10 thanks to Games 4 Windows Live. This issue should be resolved just like with other titles that have G4WLless versions on Steam.

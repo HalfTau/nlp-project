@@ -1,0 +1,1 @@
+the mac port is kind of a mess  random hangups when typical FPS is 20s30s and a crashcausing glitch that occurs every time I happen to be pressing the highprofile, directional, legs and focus buttons. the game is by no means unplayable, and these problems are almost definitely not going to get fixed, but theyre still frustrating.

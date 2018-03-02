@@ -1,0 +1,1 @@
+I bought this game because dungeon siege 2 was my childhood...Its been a struggle to make the game work on windows10 flawlessly, these launch options seem to fixfullscreenfalse height900 width1600 maxfps120 nospacechecktrue Tutorialtipsfalse nointrotrue No crashes, no sound lag, 1600x900  you can maximize to 1920x1080 afterwards  but stil windowed 

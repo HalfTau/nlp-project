@@ -1,0 +1,1 @@
+This Game does not run with Windows 10, all the fixes out there did not work got me to install a windows 7 on a hdd to play unity

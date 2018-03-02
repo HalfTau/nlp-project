@@ -1,0 +1,1 @@
+To play in 1080p and enable multiplayer, vsyncRight click on Dungeon Siege in your steam library, select properties, set launch optionswidth1920 height1080 fullscreentrue vsynctrue nointrotrue bltonlytrue zonematchtrueneed to be on a LAN or hamachi or VLAN for network button to workhit ok when it says resolution not supported joining game

@@ -1,0 +1,1 @@
+For all of you with save problem!1. Go to the installation folder, normally CProgram Files x86SteamsteamappscommonAssassins Creed IV Black Flag2. AC4BFSP.exe, Properties, Compatibility3.  RUN THIS PROGRAM AS AN ADMINISTRATOR4. When you play the game, always use the menu to exit the game. NEVER ALT  F4 !!

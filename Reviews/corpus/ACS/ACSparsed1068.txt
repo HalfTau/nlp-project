@@ -1,0 +1,1 @@
+The game engine is absolutely awful.. Buggy cloth physics and movement and delayed input. I have not finished the campaign yet as the input lag made the game unplayable for me.
