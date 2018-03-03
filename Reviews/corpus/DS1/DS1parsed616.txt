@@ -1,1 +1,0 @@
-can anyone help? game crashes everytime it loads new game,  keeps saying gathering exception data. btw im running win7? 

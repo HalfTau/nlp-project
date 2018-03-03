@@ -1,1 +1,0 @@
-The game itself is great!But...As of 1.2.0 it started crashing on startup. Turn Antialising  FXAA off in your 3D settings. 

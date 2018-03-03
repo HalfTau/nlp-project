@@ -1,1 +1,0 @@
-This game is very bad optimized. If you dont have a mid/highend PC, you may have problems like crash to desktop or frame per second not rock solid. 

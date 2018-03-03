@@ -1,1 +1,0 @@
-Character transfer no longer a feature so if you are coming from console beware. 

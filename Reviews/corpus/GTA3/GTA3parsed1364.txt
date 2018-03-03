@@ -1,1 +1,0 @@
-Works with SoftTH 2.08 in via ENB DX8 to DX9 wrapper 

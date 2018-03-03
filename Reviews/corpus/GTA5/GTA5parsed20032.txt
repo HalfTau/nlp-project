@@ -1,1 +1,0 @@
-the game currently doesnt work for almost everyone who owns it because either it fails to initialize or scripthook is out of date 

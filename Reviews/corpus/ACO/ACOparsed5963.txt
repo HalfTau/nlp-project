@@ -1,1 +1,0 @@
-Terrible optimization. Running on a GTX 1080 and 4ghz i7 with 32 GB of ram with an SSD for the game and SSD for Windows boot, and the game drops to 30 fps when walking around town on high detail. Lowering detail to VERY LOW improves the FPS by 1020, giving a whopping 4050 fps on the absolute worst detail level. 

@@ -1,1 +1,0 @@
-CONSGame comes up with an invisible menu so you dont know what your clicking on. Either that or the game freezes and doesnt let you close it.PROSRuns at 4601 fps during still image load screen 

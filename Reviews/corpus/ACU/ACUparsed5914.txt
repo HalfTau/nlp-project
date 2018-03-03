@@ -1,1 +1,0 @@
-I have the AMD card meeting the minimum requirements and a processor just below. On high, it runs at what I think its probably about 15 frames. I think I just got lucky. Once an optimization patch comes out, I think everything will be fine. 

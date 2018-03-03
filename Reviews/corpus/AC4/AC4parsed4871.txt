@@ -1,1 +1,0 @@
-Need Uplay, and is incredibly badly optimised. I get 10 fps on a R9 285, 16GB RAM, i74790. 

@@ -1,1 +1,0 @@
-Often runs at 30fps for no apparent reason, despite being run on an i5 3570k and 290x. Horribly optimized and it looks atrocious. A pain to mod. If you can ignore those things it is a good time. 

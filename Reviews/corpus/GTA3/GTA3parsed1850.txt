@@ -1,1 +1,0 @@
-Word of warning The mac version in steamplay is just WINE. So it runs like butt. Itd probably run better in a VM. 

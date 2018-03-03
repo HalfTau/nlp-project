@@ -1,1 +1,0 @@
-If you cant change your resolution or graphics settings do thisright click on GTA4, select properties, then select launch optionscopy and paste this into the field that comes upnomemrestrict norestrictions 

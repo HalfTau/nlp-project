@@ -1,1 +1,0 @@
-Online character creation is broken and loops. 

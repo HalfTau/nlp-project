@@ -1,1 +1,0 @@
-for fixing GFWL error go to program files and steam and steam app and common folders then right click on gta v.exe choose properties and change the setting to windows 7 it will work 

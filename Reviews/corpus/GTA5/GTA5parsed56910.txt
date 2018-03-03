@@ -1,1 +1,0 @@
-runs poorly on my system though its reaches minium spec texture not loading 

@@ -1,1 +1,0 @@
-The 1.07 patch disables the need for GPU fixes you may have added in a config file. In fact, having these config text files pretty much crashes the game on launch. Go to your install folder and delete commandline.text and delete launch options and steam to stop the instant crashing on launch. 

@@ -1,1 +1,0 @@
-Console port of a mildly fun RPGlite with nice graphics, music, and sound, but completely dissimilar to previous Dungeon Siege games and marred by a lousy camera, frustrating controls, and cumbersome interface. 

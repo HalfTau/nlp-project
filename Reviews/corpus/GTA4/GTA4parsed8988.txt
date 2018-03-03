@@ -1,1 +1,0 @@
-uninstall button works at windows 10. 

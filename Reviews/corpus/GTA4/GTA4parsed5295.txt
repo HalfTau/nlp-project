@@ -1,1 +1,0 @@
-After some Googling around I found a way to make this game work on Windows 10Download that and install.Go into your library, right click GTA IV and select properties and put exactly this into it nomemrestrict norestrictionsHave fun 

@@ -1,1 +1,0 @@
-Resolution bug fixed but now controllers seem to be broken. 

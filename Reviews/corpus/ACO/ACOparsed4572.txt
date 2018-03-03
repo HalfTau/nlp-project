@@ -1,1 +1,0 @@
-100 cpu usage with an i57500 even on lower settingstriple layer DRM doin its work, thanks ubioft 

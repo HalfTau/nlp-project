@@ -1,1 +1,0 @@
-Crashes due to huge cpu requirements my 6 core 3.5mhz is not nearly enough. it is an AMD so it is probobly that incopadibility with the known problems. 

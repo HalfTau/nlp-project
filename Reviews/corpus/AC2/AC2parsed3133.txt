@@ -1,1 +1,0 @@
-Unplayable on OS/X. Game wont start unless you dial your desktop resolution way down, and even then it performs extremely poorly and doesnt support joysticks. One of the worst Mac ports Ive ever seen. 

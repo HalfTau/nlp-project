@@ -1,1 +1,0 @@
-I have a problem. When i enter unity it works perfectly, right up until the start screen. The mouse pointer is stuck on the top left hand paart of the screen. And also cant press any keys to enable the game. Does anyone know of a fix for this? it has been annoying the crap out of me 

@@ -1,1 +1,0 @@
-Initial set up is tiresome . make sure you download the latest version of games for windows LIVE . sign in inside game with your microsoft account,it will ask for update quit game and update begins . run game again sign in and your done . confirmed working on windows 10 x64 .gameplay is smooth. 

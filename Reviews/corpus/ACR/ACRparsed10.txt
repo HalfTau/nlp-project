@@ -1,1 +1,0 @@
-Garbage  zero support for modern graphic cards. 

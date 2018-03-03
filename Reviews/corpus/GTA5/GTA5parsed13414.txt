@@ -1,1 +1,0 @@
-i can run this on alaptop with an integrated amd graphics card. im well under the minimum requirements but i can still make this game run at 3040fps on low without any diving deep into text files to remove shadows ect. 

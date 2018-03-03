@@ -1,1 +1,0 @@
-Game itself is fine, but its ported to pcversion pretty crappily . GFWL also will stop working, so no more multiplayer probably. 

@@ -1,1 +1,0 @@
-This game does have some slightly framerate stability issues due to porting issues, but the game ultimately plays the best and looks the best on the PC. 

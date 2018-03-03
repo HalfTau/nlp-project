@@ -1,1 +1,0 @@
-Dont support greedy publishers. I would return this if I could. 

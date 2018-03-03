@@ -1,1 +1,0 @@
-I would be nice if player model and camera angle did not glitch out. 

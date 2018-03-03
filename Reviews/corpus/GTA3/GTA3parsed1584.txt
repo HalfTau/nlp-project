@@ -1,1 +1,0 @@
-This game does not work on WIN8.1  It will start but not continue even to the first mission. 

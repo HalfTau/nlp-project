@@ -1,1 +1,0 @@
-demanding specs doesnt run properly on nvidia gtx 780OC 3gb graphics 

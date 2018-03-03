@@ -1,1 +1,0 @@
-I had huge problems just getting this game to work properly. The game was skipping the whole time and it was unplayable. Found the solution to that problem, I had to disable the processor cores then enable them again everytime I played the game. Huge inconvenience but the game is good enough to make me look past that. 

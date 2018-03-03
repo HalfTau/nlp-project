@@ -1,1 +1,0 @@
-It doesnt work. It will launch the game, but wont let me login into GFWL and then crashs. 

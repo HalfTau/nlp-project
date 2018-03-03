@@ -1,1 +1,0 @@
-Dosent work on Windows 8. 

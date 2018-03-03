@@ -1,1 +1,0 @@
-Game does not work on Windows 8.1 

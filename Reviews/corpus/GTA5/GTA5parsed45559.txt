@@ -1,1 +1,0 @@
-Doesnt work on my system anymore. Intel i54670k, GeForce 750TI, Windows 7. Used to work when I bought it but now it crashes on start. 

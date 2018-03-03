@@ -1,1 +1,0 @@
-For my opnion if you do have crashing issues I would check out the graphics card first, because that was my main reason why it did not work. Also it indicates the minimum requirements for the game to even run smoothly. If you do happen to have any higher than that I still recommend if there is a driver update to update it then. 

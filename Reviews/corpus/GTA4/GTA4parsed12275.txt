@@ -1,1 +1,0 @@
-Horrid, Crashes on startup. I am useing a Windows 8 Computer and HAVE tried combatability mode, still no dice. 

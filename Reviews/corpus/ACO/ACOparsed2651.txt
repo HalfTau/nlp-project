@@ -1,1 +1,0 @@
-Game runs tremendously bad on a GTX 1080ti and a i7 7700k, overclocked at 4.6GHz. The FPS bounces between 20 and 80, mostly in the range of 30 to 40 FPS. Decreasing the graphic settings has no effect at all. The performance and the optimization is simply bad. The game seems fun, but the fun gets constantly interrupted by FPS drops and stuttering. Dont buy it. Simple as that. 

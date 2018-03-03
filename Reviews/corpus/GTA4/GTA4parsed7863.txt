@@ -1,1 +1,0 @@
-Poorly optimized, runs awfully with my GTX970. 55 FPS average, not dependant on graphics setting either. Forced overthetop mouse acceleration makes this one unplayable using a mouse. 

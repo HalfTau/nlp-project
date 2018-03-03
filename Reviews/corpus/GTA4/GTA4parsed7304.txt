@@ -1,1 +1,0 @@
-GTA IV is a brilliant game, but you dont need all those mods to be able to run it.Go to your Library  Grand Theft Auto IV  RIght Click  Properties  Set Launch Options.From there you can type in the digits that fit the criteria of your personal Computer.norestriction availablevidmem 512 percentvidmem100Optional commandswindowed borderlessYoure welcome. 

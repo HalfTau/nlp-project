@@ -1,1 +1,0 @@
-Whenever I press start it wont open... it just does nothing. 

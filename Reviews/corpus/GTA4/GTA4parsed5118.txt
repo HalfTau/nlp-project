@@ -1,1 +1,0 @@
-Worked fine on Windows 8, after updating to 10 the game gets stuck on the loading screen after selecting a new or saved game. 

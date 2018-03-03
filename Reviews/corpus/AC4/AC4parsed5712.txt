@@ -1,1 +1,0 @@
-The game crashes EVERYTIME you open it, AT THE STARTING SCREEN, when it says connecting to Uplay server. You cant play this game. Period.EDIT Go to the installation folder, delete the dlc10 folder. You have it, its weird but it works. My review is unchanged, cause I got no support from Ubisoft, this is a community workaround 

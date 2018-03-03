@@ -1,1 +1,0 @@
- Very clunky and uninspiring animations Cloth physics locked at 30 FPS Melee batman wannabe combat, with none of the merits Many bugs and glitches Only 60 GPU usage using SLII would avoid this one and wait for fixes and a discount. 

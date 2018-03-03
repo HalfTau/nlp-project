@@ -1,1 +1,0 @@
-A GTA game that I enjoy very much played almost all GTA games since GTA 3 except GTA advance. GTA IV has a realistic theme to it. One may need to enter the follwing lines in to the launch options in steam to make the game work without crashing or properly rendering textures especially on newers OSs and graphic cards  nomemrestrict norestrictions availablevidmem 4000.0 

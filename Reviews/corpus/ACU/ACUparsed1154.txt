@@ -1,1 +1,0 @@
-While not having any game breaking bugs any more, the texture ops and low framerate are still debilitating. 

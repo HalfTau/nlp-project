@@ -1,1 +1,0 @@
-Inconsistent performance. Runs well in general but occasionally gets hung up for few seconds. It has CTD a few times as well. Its a good game but could be frustrating to someone with a mediocre rig. 

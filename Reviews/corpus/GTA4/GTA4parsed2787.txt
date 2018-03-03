@@ -1,1 +1,0 @@
-Does not run on a modern system. Also removing OpenIV which is the only thing that adds any replay value is moronic. 

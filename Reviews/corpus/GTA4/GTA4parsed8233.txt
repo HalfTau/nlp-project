@@ -1,1 +1,0 @@
-Games for Windows Live killed the game. Cant get the game serial from it, therefore cant authenticate the game which means the save function doesnt work. 

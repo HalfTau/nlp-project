@@ -1,1 +1,0 @@
-Runs very well on a GTX770. 80120fps usually. 

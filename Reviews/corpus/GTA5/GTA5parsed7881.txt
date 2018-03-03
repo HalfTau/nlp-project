@@ -1,1 +1,0 @@
-Wonderful, But make sure ram is above 4. I have upgraded to 8 from 4 now it works perfectly fine on full screen, before I had to play in safe mode which is a small screen to avoid lag. 

@@ -1,1 +1,0 @@
-No Linux support  Plus its very old.However, a community project called OpenRW is remaking this game from scratch to be multiplatform and better. Go check it out. 

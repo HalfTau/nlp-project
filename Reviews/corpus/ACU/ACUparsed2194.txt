@@ -1,1 +1,0 @@
-Game crashes frequently if running on Windows 10. There is a fix but you have to mess with the sound files. Seemed like a great game and runs fine except for the crashing every 20ish minutes. 

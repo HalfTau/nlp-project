@@ -1,1 +1,0 @@
-Great sequel for AC, the only frustrating thing about this. is the stupid controls. Sometimes it does things I do not want to do, I happen to bypass it, and complete the game. 8/10 Steam Overlay problem isnt a problem. In my case, the culprit that caused the Steam overlay not to work was AMD External Events Utility service. Turning it off in MSConfig fixed the issue. 

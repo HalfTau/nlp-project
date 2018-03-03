@@ -1,1 +1,0 @@
-It was great when it worked, but now its stuck in an infinite load loop and is unplayable. Spent hours trying out different troubleshooting techniques to fix the issue including full reinstallation but its just no longer worth the time and effort.Fix yourRockstar. 

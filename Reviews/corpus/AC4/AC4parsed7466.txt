@@ -1,1 +1,0 @@
-Awesome RPG so far. I love the ship combats. There was one bug. During combat the game froze, but that was easily fixed by turning on volumetric fog in options. 

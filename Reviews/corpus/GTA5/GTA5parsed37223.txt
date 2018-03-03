@@ -1,1 +1,0 @@
-Take Two butchered modding support for this game. If a client side tool is being used to modify game files, use signature verification or signing instead of making stupid decisions. Go after online cheaters and not modding tools. 

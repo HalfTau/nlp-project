@@ -1,1 +1,0 @@
-Game is good, but 100 of cpu usage make even my mouse and keyboard stop working sometimes razer mouse and microsoft keyboard, both with control software, and for make it worse, priority on windows is set to high changing it to normal helped with imput lag.Running on i5 3570K  4,5GHzGeForce GTX 98032GB Corsair vegeance 

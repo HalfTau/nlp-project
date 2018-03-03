@@ -1,1 +1,0 @@
-May Change this review later but right now the performance issues are really unacceptable. Getting 8090 CPU usage just idling in the menu or start screenthis makes no sense. It seems like I only get whats remaining from that to run the actual game. 

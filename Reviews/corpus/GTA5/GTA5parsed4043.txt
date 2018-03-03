@@ -1,1 +1,0 @@
-Does not support 3440x1440 resolution, stay away if you have an ultrawide monitor! 

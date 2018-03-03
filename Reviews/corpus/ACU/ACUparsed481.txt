@@ -1,1 +1,0 @@
-Every time I want to run this game I need to Verify integrity of game files from the Steam options. Otherwise it just crashes on launch. It doesnt make any sense. 

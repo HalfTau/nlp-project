@@ -1,1 +1,0 @@
-good game. to get it to work you just have to downgrade from 1.0.8.0 back to 1.0.7.0 

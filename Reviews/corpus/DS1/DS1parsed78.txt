@@ -1,1 +1,0 @@
-I cant get it working on Windows 10 64bit. It always crashes during the opening sequence. 

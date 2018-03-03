@@ -1,1 +1,0 @@
-Doesnt work on Macos Sierra, this is known bug for many month, devs just wont fix it. 

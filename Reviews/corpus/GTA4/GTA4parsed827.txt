@@ -1,1 +1,0 @@
-s no rezero porque sempre da crash 

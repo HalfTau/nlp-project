@@ -1,1 +1,0 @@
-Unlike most other games where running with a slightly underpowered machine is still enough to play game, Unity is not one of those.You /must/ have at least the mininums, or the game is simply not playable at all.It looks beautiful, but that beauty is what kills most machines if theyre not ready for this. 

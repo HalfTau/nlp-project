@@ -1,1 +1,0 @@
-Game is not playable. I only get 20fps while just walking around. I have a GTX 1070 overclock and it still runs like 

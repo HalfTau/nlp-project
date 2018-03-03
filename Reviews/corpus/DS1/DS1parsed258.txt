@@ -1,1 +1,0 @@
-Why is this game ending stuck in an infinite loop? Because of this it can end. The original game which I have does not do this. It finishes properly. It also works fine in Legends of Aranna. I cant recommend this came to anyone because of this. 

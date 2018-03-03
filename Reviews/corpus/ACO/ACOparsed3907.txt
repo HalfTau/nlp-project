@@ -1,1 +1,0 @@
-Game runs perfect for me at highultra settings 60FPS with occassional frame drops but nothing below 54, gaming at 1080p resolution, my CPU ussage has been between 50 to 75 and only at 90 for the first few minutes.My PC SpecsRyzen 5 1600 NO OC Temps go around 35 to 46 CGIGABYTE GTX 1060 6GB OC Temp never goes higher than 70 C16GB RAM 

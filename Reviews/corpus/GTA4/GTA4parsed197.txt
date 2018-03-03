@@ -1,1 +1,0 @@
-Badly ported from consoles and not optimised to work with pcs at all. Tried all the tips and tricks the internet provided as solutions, but none got the game to run smoothly. Yes Ive got the hardware to run it. Its the game engine thats the cause of this. 

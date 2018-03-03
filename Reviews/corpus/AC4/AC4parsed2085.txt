@@ -1,1 +1,0 @@
-doesnt work well fps goes down to 73 and thats it 

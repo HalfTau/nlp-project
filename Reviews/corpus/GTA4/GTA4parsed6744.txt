@@ -1,1 +1,0 @@
-It was a hot mess when it launched on PC and its an even hotter mess now and doesnt play nicely on modern systems in the least.Add to launch optionsnorestrictions noprecache novblank nomemrestrict percentvidmem 100 

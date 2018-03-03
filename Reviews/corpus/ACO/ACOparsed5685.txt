@@ -1,1 +1,0 @@
-When ever i try to launch this it just pulled  Error at hoocking APL loadStringA Dumping first 32 bytesthen it just puts a bunch of numbers. 

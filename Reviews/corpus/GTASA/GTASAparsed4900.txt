@@ -1,1 +1,0 @@
-FIX FOR RESOLUTION WIERD COLORSStart the gamePress escapeClick optionsClick display set upClick advancedNow using the arrow keys adjust the RESOLUTION from 16 bit to 32 bit and HIT ENTER.FIXED 

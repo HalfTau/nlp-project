@@ -1,1 +1,0 @@
-Keeps on crashing and it also drops to 1 fps. 

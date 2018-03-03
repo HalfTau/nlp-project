@@ -1,1 +1,0 @@
-Optimization for SLI isnt well done, so that for some reason the gpu utilization for me hovers around 60 without being able to go above that, even to the point where one gpu might be giving more performance wile being used alone. 

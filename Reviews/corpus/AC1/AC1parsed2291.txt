@@ -1,1 +1,0 @@
-if you have any problems with freezing and stuff do the following  go to C/ Windows/ system 32/ drivers/ etc.............OPEN HOSTS iwth notepad and paste the following at the end of the lines216.98.48.18 127.0.0.1216.98.48.53 127.0.0.1216.98.48.57 127.0.0.1216.98.48.133 127.0.0.1216.98.48.134 127.0.0.1 

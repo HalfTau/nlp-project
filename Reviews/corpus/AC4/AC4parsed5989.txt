@@ -1,1 +1,0 @@
-Pretty much fixed what they did wrong in AC3. Still have issues with freerunning on the newer geometries, but its not game breaking. Kenways Fleet seemed rather pointless.Getting the game to run was a  though. Had to put in no less than 16 port forwarding entries into my router to get the game connecting to Ubisofts servers. 

@@ -1,1 +1,0 @@
-il gioco parte ma invece di darmi la schermata del men iniziale mi da una schermata nera con la freccetta del mouse vorrei capire il perch come risolverlo e informare gli sviluppatori di questo errore 

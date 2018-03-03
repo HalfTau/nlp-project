@@ -1,1 +1,0 @@
-Have fun trying for hours to get Windows Live working, only to resort to using shady dll files that prevent multiplayer from working. 

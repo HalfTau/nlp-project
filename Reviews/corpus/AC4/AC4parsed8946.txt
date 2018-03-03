@@ -1,1 +1,0 @@
-I am running multiple 5870 video cards in eyefinity and was experiencing lag. tinkering with Ambient Occlusion solved my issues and the game looks and plays great now on a 3 screen setup 

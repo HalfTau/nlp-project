@@ -1,1 +1,0 @@
-I cant figure out how to move camera on foot. It stays fixed so if i change directions I could start walking straight towards the camera with no idea where Im going. I tried the V key looked in the config menu for keybinds nothing works. 

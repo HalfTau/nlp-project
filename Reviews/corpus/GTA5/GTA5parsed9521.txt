@@ -1,1 +1,0 @@
-Makes you authenticate even in offline mode 

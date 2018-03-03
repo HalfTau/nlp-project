@@ -1,1 +1,0 @@
-For those of you with Windows 10, this game is still majorly broken. Just redownloaded an hour ago and it simply does not start. Still has Social Club, still tries to install Games for Windows Live. Plagued with D3D reset failed errors...It simply does not work...at all. All my drivers are up to date. C and .Net Framework up to date. This game is a worlthless pile of 

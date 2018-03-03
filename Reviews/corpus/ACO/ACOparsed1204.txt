@@ -1,1 +1,0 @@
-The gameplay is fun, but there is no normal save function. The game relies exclusively on autosaves, and cannot reload saves. You can reload quest objectives, but this only lets you go back a short bit. The lack of control over save files, and inability to test things out without permanently influencing your game, is extremely unpleasant. 

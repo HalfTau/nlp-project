@@ -1,1 +1,0 @@
-Framerate stutters too much to be playable. I cant seem to find any fixes for it. 

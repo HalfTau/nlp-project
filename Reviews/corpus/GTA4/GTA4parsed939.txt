@@ -1,1 +1,0 @@
-Theres a simple trick to run this on Win10. Just go to the exefile, choose properties, go tocompatibility and choose deactivate Full image optimization. DONE! This fixed my problem 

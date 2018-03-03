@@ -1,1 +1,0 @@
-It doesnt play. closes out after the initial startup screen 

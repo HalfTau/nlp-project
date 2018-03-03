@@ -1,1 +1,0 @@
-The game suffers from a stuttering issue if I have both cards enabled in SLi. Every other second the game will freeze/hang for about a second. 

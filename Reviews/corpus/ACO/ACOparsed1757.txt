@@ -1,1 +1,0 @@
-Lacks SLI support 

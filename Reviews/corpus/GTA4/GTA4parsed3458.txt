@@ -1,1 +1,0 @@
-Game does not run well on minimum graphics 

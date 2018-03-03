@@ -1,1 +1,0 @@
-The game its self is GREAT, one of the best in the series. The pc port however is a different story Mouse controls just dont work unless you set the process within task manager to use only one core and there is no way to save this setting, so every time you open GTASA you have to set it to use one core, Very inconvenient! 

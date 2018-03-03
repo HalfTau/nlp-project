@@ -1,1 +1,0 @@
-Pretty good, had some compatibility issues with Windows 8 though. Had to load another windows live for Windows 8 so the program would start up. Wont start up now it just goes to the Rockstar Sign in and then doesnt play. Going to reload it to see of it works. 

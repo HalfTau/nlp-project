@@ -1,1 +1,0 @@
-Fixed all the problems with AC3 and made it better. 

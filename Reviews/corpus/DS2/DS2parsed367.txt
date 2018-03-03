@@ -1,1 +1,0 @@
-The Game is great, but the WHOLE multiplayerpart is disabled. Not only the Gamespy part for internetplay but also the LAN part. If you want to play online anyways then have a look at this Guideand then download GameRanger, copy the whole DS2 folder from steam to anywhere and add it under EditOptions. Click Host Game and wait for People to join. Start and thats it ... D 

@@ -1,1 +1,0 @@
-Averages 80 fps on the benchmark with a Titan Xp and a 6700k  4.7 ghz. GPU usage around 5070 and CPU usage at 90 at 1440p. What the 

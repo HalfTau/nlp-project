@@ -1,1 +1,0 @@
-EDIT Take Two have reversed their decision to shutdown OpenIV. Review changed to recommened.Take Two decided to shutdown OpenIV, which slows down or shutdowns a lot of mods. They claim that OpenIV was allowing malicious mods and content online while OpenIV mods will not allow one to connect to GTA Online if they are installed. 

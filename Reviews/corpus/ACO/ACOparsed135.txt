@@ -1,1 +1,0 @@
-Everything is brilliant except high cpu usage which cause problem while playing game 

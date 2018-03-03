@@ -1,1 +1,0 @@
- ERROR  Exit code 0xc0000005 indicates a game crash STATUSACCESSVIOLATION ERROR  Unable to clear infile and outfile!Crash at launch. Completely unfixable, Rockstar tech support is a joke. This has been an ongoing issue for years. Waste of 60. 

@@ -1,1 +1,0 @@
-does not even work on windows 10 it just keeps saying needs at least DirectX 8.1 when i have already the latest DirectX installed on my computer what a waste of time 

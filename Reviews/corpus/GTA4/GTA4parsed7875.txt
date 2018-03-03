@@ -1,1 +1,0 @@
-Runs fine on Windows 10 surprisingly. Just modify the launch options, get yourself some mods and youre good to go! 

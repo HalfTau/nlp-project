@@ -1,1 +1,0 @@
-After disableing the Unity overlay, all my crashes stoped. Ive got a gtx 780 card and have no real issues running the game. 

@@ -1,1 +1,0 @@
-The game is broken. The game stutters and the WASD controls move the character wherever they want with each stroke. Literally unplayableEdit Huge thanks to xwing. It seems deleting the systemdetection.dll file lets the game run like it should. Im changing my critic from a negative to a positive because now that I got to play this, its pretty awesome 

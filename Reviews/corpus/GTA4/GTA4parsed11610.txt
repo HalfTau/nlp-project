@@ -1,1 +1,0 @@
-This game gets stuck loading, it says i have 0 dedicated video memory and refuses to start the game itself. 

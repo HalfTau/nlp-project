@@ -1,1 +1,0 @@
-When it try to play the game it always says that it is not responding. 

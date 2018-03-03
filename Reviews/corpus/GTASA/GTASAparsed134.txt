@@ -1,1 +1,0 @@
-i got a new pc and when i try to play this on my new pc it says requires at least directx 9.0, but other games with same directx requirment work how can i fix this 

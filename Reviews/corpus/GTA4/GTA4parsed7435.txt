@@ -1,1 +1,0 @@
-It doesnt work, when the social club login screen appears, and you log in or continue to offline mode, nothing happens, fix this stuff. 

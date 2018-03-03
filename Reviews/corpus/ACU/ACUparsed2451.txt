@@ -1,1 +1,0 @@
-Couldnt get the frame rate past 3 frames per second 

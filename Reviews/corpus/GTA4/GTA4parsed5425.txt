@@ -1,1 +1,0 @@
-Skip Social Club log in by changing paul.dll to paul.old .... availablevidmem 1024.0 percentvidmem 100 nomemrestrict  use this command line in start up command box.....use it for GTA 4 also..... lol i do not remember how i got windows live to work on windows 10 ...my bad... GTA 4 and DLC running on a i3 2.3 ghz 16 gb of ram intel hd 5200 using medium settings runs fine 

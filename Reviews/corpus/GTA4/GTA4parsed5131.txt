@@ -1,1 +1,0 @@
-Ensure that GTA IV and Games for Windows LIVE are allowed through Windows Firewall.I didnt do anything to my compatibility settings. I changed paul.dll to paul.dll.disabledNo, nothing is impossible.Yes, this is a dumb issue. 

@@ -1,1 +1,0 @@
-Massive FPS drops with an i7 6700K and a GTX 1080 PhysX off.Framerate LOCKS at 30 fps when it doesnt achieve 60fps with vsync on.Horrible screen tearing with vsync off, adaptive sync does not help.Console port gone wrong. 

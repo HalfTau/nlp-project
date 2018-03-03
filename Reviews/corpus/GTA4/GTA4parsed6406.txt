@@ -1,1 +1,0 @@
-gtx 1070 still cant run above 30fps 
