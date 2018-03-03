@@ -1,1 +1,1 @@
-Constant fps drop even though my PC can overkill this ing game. No matter how low the graphics are still the same this game is not stable on directx11 graphics cards.
+Constant fps drop even though my PC can overkill this ing game. No matter how low the graphics are still the same this game is not stable on directx11 graphics cards. 

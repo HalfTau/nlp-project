@@ -1,1 +1,1 @@
-Ubisoft disabled cloud sync without warning, which also reset everyones savegames in the process.
+Ubisoft disabled cloud sync without warning, which also reset everyones savegames in the process. 

@@ -1,1 +1,1 @@
-Runs like garbage on any and all graphics settings.
+Runs like garbage on any and all graphics settings. 

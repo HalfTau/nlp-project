@@ -1,1 +1,1 @@
-Techinical issues. Game keeps stopping to load frame even at lowest setting on a GTX 970.
+Techinical issues. Game keeps stopping to load frame even at lowest setting on a GTX 970. 

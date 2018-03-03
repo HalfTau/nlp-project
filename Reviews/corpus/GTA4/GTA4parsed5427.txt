@@ -1,1 +1,1 @@
-Does not work with Windows 7.
+Does not work with Windows 7. 

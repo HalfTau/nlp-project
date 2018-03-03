@@ -1,1 +1,1 @@
-Please fix Unable to initialize DirectX9 device for amdspecsGPUAmd R7 250CPUAmd FX4300QuadCoreProcessorRAM16GB
+Please fix Unable to initialize DirectX9 device for amdspecsGPUAmd R7 250CPUAmd FX4300QuadCoreProcessorRAM16GB 

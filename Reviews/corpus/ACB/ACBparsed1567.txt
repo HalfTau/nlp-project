@@ -1,1 +1,1 @@
-Game opens at uplay login then crashes. Every time.
+Game opens at uplay login then crashes. Every time. 

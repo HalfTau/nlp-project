@@ -1,1 +1,1 @@
-A refreshing new game for the series doing some work on the game foundations recipy, wayy less buggy than unity, yet it could use optimizations.
+A refreshing new game for the series doing some work on the game foundations recipy, wayy less buggy than unity, yet it could use optimizations. 

@@ -1,1 +1,1 @@
-awful performance issues. practically have to run it on potato settings or in a cmd window to get above 60 FPS on a highend computer
+awful performance issues. practically have to run it on potato settings or in a cmd window to get above 60 FPS on a highend computer 

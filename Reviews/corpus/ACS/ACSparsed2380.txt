@@ -1,1 +1,1 @@
-Good.But this version has a bug.Whenever I move quicklyPress KEY F fixed places, the monitor shows me only black screen.And I press ALT  Tab, the application program shuts down itself.After all of it, I reload the recent save, I am in the train.I hope it will be solved soon.
+Good.But this version has a bug.Whenever I move quicklyPress KEY F fixed places, the monitor shows me only black screen.And I press ALT  Tab, the application program shuts down itself.After all of it, I reload the recent save, I am in the train.I hope it will be solved soon. 

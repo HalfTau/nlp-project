@@ -1,1 +1,1 @@
-with Physx on The game works really bad for me , i run bf1 on ultra 1440P and i get in AC4 on ultra 1080p 3060fps ...i found a fix, you turn off Physx and restart AC4 , now when you are in game and get the same 40 fps you do CTRL ALT DEL , go back to game and fps is fixed .
+with Physx on The game works really bad for me , i run bf1 on ultra 1440P and i get in AC4 on ultra 1080p 3060fps ...i found a fix, you turn off Physx and restart AC4 , now when you are in game and get the same 40 fps you do CTRL ALT DEL , go back to game and fps is fixed . 

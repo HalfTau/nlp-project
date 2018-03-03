@@ -1,1 +1,1 @@
-Freezes at Main Menu, MicroStuttering, Broken PhysX Etc
+Freezes at Main Menu, MicroStuttering, Broken PhysX Etc 

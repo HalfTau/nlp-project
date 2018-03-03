@@ -1,1 +1,1 @@
-Doesnt work with eyefinity at 3600x1920 after claiming that eyefinity was supported.  Could not play it.
+Doesnt work with eyefinity at 3600x1920 after claiming that eyefinity was supported. Could not play it. 

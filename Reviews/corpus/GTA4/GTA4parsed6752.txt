@@ -1,1 +1,1 @@
-ed up optimalization for Intel Skylake.
+ed up optimalization for Intel Skylake. 

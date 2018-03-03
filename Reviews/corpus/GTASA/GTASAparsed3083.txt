@@ -1,1 +1,1 @@
-A framerate cap of 26
+A framerate cap of 26 

@@ -1,1 +1,1 @@
-The Copy Protection has issues with windows 10 and there is a problem with textures not loading fast enough with modern gpus
+The Copy Protection has issues with windows 10 and there is a problem with textures not loading fast enough with modern gpus 

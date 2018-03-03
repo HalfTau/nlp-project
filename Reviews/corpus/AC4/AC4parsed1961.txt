@@ -1,1 +1,1 @@
-It does not work for me and will crash on startup. Infuriating
+It does not work for me and will crash on startup. Infuriating 

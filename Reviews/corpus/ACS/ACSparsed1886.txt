@@ -1,1 +1,1 @@
-Crashes at 4 of progress when killing a gang leader and cut scene starts to initiate. I have memory, CPU and graphics power to spare and nothing I do can change this outcome.
+Crashes at 4 of progress when killing a gang leader and cut scene starts to initiate. I have memory, CPU and graphics power to spare and nothing I do can change this outcome. 

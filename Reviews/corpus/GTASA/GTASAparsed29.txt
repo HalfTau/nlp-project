@@ -1,1 +1,1 @@
-When I try to Open GTA San Andreas a text pops up and it says Windows 8.1 The component store has been corrupted 0x80073712But The game needs Direct X 9.0 For it to let me playSo I Cant install Direct X 9.0 Because of The Error 0x80073712
+When I try to Open GTA San Andreas a text pops up and it says Windows 8.1 The component store has been corrupted 0x80073712But The game needs Direct X 9.0 For it to let me playSo I Cant install Direct X 9.0 Because of The Error 0x80073712 

@@ -1,1 +1,1 @@
-Collectables freeze the game, and it never loads in fullscreen, so the bottom of the screen is partially covered. Get it on a console.
+Collectables freeze the game, and it never loads in fullscreen, so the bottom of the screen is partially covered. Get it on a console. 

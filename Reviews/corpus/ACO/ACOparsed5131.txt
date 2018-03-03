@@ -1,1 +1,1 @@
-game plummets to 25fps as soon as you pull out a torch on very low settings, even with a high end PC.
+game plummets to 25fps as soon as you pull out a torch on very low settings, even with a high end PC. 

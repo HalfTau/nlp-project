@@ -1,1 +1,1 @@
-game is not work   mouse does not move once game is load
+game is not work   mouse does not move once game is load 

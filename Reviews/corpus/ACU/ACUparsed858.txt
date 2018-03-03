@@ -1,1 +1,1 @@
-connection error for a 20mb/s downloading network
+connection error for a 20mb/s downloading network 

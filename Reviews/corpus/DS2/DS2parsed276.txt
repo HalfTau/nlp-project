@@ -1,1 +1,1 @@
-Used to play it when I was a kid. Its the best dungeon crawling rpg Ive ever played really.Also, if you dont have a cursor, add fullscreenfalse without the quotes into the launch options, should give you your cursor.
+Used to play it when I was a kid. Its the best dungeon crawling rpg Ive ever played really.Also, if you dont have a cursor, add fullscreenfalse without the quotes into the launch options, should give you your cursor. 

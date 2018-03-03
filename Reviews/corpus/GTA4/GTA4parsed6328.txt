@@ -1,1 +1,1 @@
-Did all the work arounds to get the game up and running on Windows 10, maxed out the graphics and had to restart the game for the texture settings to take effect and now it wont get past the loading screen. It should be running fine on a 980m but it just gets stuck. RIP
+Did all the work arounds to get the game up and running on Windows 10, maxed out the graphics and had to restart the game for the texture settings to take effect and now it wont get past the loading screen. It should be running fine on a 980m but it just gets stuck. RIP 

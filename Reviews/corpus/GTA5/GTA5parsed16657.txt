@@ -1,1 +1,1 @@
-Overpriced screensaver with a C that rotates counterclockwise.
+Overpriced screensaver with a C that rotates counterclockwise. 

@@ -1,1 +1,1 @@
-stripper s 10/10
+stripper s 10/10 

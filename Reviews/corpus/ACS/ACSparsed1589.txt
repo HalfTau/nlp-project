@@ -1,1 +1,1 @@
-Game wont launch unless installed on C drive. Some people recommend moving the sounds files and then setting up a junction but this wouldnt work for me.
+Game wont launch unless installed on C drive. Some people recommend moving the sounds files and then setting up a junction but this wouldnt work for me. 

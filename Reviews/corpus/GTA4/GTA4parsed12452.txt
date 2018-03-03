@@ -1,1 +1,1 @@
-Works with SoftTH 2.08
+Works with SoftTH 2.08 

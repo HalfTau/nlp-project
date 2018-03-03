@@ -1,1 +1,1 @@
-If youre stuck on the logo screen bug and you have an nvidea card go into control panel and change your profile for this game from integrated to high preformance nvidea card worked for me and the game is running fine.
+If youre stuck on the logo screen bug and you have an nvidea card go into control panel and change your profile for this game from integrated to high preformance nvidea card worked for me and the game is running fine. 

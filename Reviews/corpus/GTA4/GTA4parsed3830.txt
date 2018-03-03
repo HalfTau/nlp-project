@@ -1,1 +1,1 @@
-Game will nor run.  I get an error message  SecuLauncher failed to start application 2000
+Game will nor run. I get an error message  SecuLauncher failed to start application 2000 

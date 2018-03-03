@@ -1,1 +1,1 @@
-Better Optimization than Unity!But It have a conflict with the latest GPU driver359.00 for my GTX860m. The game keep crashing every time when moving on cutscene. Whatever! now I can play it smoothly with older version of driver 355.98, hoorey!.
+Better Optimization than Unity!But It have a conflict with the latest GPU driver359.00 for my GTX860m. The game keep crashing every time when moving on cutscene. Whatever! now I can play it smoothly with older version of driver 355.98, hoorey!. 

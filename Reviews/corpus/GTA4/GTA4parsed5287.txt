@@ -1,1 +1,1 @@
-Always crashes for me, cant go online because authentication doesnt work.
+Always crashes for me, cant go online because authentication doesnt work. 

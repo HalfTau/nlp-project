@@ -1,1 +1,1 @@
-Disabled the ability to transfer character online
+Disabled the ability to transfer character online 

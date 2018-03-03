@@ -1,1 +1,1 @@
-Be aware ths game does not properly support gamepads controllers on OSX
+Be aware ths game does not properly support gamepads controllers on OSX 

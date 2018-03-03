@@ -1,1 +1,1 @@
-Game does not start on Windows 8.1 Pro.
+Game does not start on Windows 8.1 Pro. 

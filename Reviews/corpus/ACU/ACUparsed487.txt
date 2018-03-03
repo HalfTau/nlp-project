@@ -1,1 +1,1 @@
-Crushes every 510 minutes on windows 10. Only way to fix it is to rename or delete dll file in system32 folder that might affect sound in other games. Already waiting for refund.
+Crushes every 510 minutes on windows 10. Only way to fix it is to rename or delete dll file in system32 folder that might affect sound in other games. Already waiting for refund. 

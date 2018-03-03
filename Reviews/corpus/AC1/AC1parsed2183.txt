@@ -1,1 +1,1 @@
-Very enjoyable. However, if you are running DirectX10, then its gonna give you grief. Just go to the folder in the steam files, delete the DirectX10 exe and rename the DirectX9 to 10. Works like a charm. D
+Very enjoyable. However, if you are running DirectX10, then its gonna give you grief. Just go to the folder in the steam files, delete the DirectX10 exe and rename the DirectX9 to 10. Works like a charm. D 

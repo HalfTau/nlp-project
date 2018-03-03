@@ -1,1 +1,1 @@
-STABILITY AND RAM ISSUES.It crashes occassionaly and every now and then i get a low memory ram notification that leads to a crash after some time. it performs better than unity but its still not up to the mark.I have 8gb of ram i run an i54440 with gtx 960 4gb
+STABILITY AND RAM ISSUES.It crashes occassionaly and every now and then i get a low memory ram notification that leads to a crash after some time. it performs better than unity but its still not up to the mark.I have 8gb of ram i run an i54440 with gtx 960 4gb 

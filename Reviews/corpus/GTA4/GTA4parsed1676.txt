@@ -1,1 +1,1 @@
-Finally managed to get the game to work. For some reason it wont run if its in fullscreen.
+Finally managed to get the game to work. For some reason it wont run if its in fullscreen. 

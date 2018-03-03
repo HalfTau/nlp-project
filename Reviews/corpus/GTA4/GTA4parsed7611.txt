@@ -1,1 +1,1 @@
-Fun game, but DOES NOT run on some boards with Skylake CPUs without a BIOS update.  Be warned..The PC performance on this one isnt great either.  My PC actually runs GTA5 much better than it does 4.
+Fun game, but DOES NOT run on some boards with Skylake CPUs without a BIOS update. Be warned..The PC performance on this one isnt great either. My PC actually runs GTA5 much better than it does 4. 

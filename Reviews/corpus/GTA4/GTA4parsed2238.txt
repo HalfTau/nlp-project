@@ -1,1 +1,1 @@
-Game does not start in Windows 10.
+Game does not start in Windows 10. 

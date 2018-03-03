@@ -1,1 +1,1 @@
-Doesnt work on Windows 10. Ive been searching for solutions but none have worked for me so far.EDIT I had to run the game in windowed mode so it didnt freeze at startup. There are solutions for most problems out there, apparently, but its an infamously bad port for a reason.
+Doesnt work on Windows 10. Ive been searching for solutions but none have worked for me so far.EDIT I had to run the game in windowed mode so it didnt freeze at startup. There are solutions for most problems out there, apparently, but its an infamously bad port for a reason. 

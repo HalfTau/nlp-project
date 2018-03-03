@@ -1,1 +1,1 @@
-When a game crashes before you can even launch the first sequence of the game  then persistently not even load/launch the game after that is a clear sign that this game is stupidly broken.
+When a game crashes before you can even launch the first sequence of the game  then persistently not even load/launch the game after that is a clear sign that this game is stupidly broken. 

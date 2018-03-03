@@ -1,1 +1,1 @@
-game frame rate not stable started at 60 solid, then quickly dropped to 20s and below and didnt recover
+game frame rate not stable started at 60 solid, then quickly dropped to 20s and below and didnt recover 

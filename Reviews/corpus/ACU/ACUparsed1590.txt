@@ -1,1 +1,1 @@
-Unplayable Crashes every 5 to 10, someimes 15 minutes to the windows error repotring dialog, probably when loading data from disk. No Logging, no errror message, looks like serious problems with their source code quality.
+Unplayable Crashes every 5 to 10, someimes 15 minutes to the windows error repotring dialog, probably when loading data from disk. No Logging, no errror message, looks like serious problems with their source code quality. 

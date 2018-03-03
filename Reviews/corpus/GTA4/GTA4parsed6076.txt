@@ -1,1 +1,1 @@
-Is not showing VRAM correctly  it says I have 123 VRAM but I have almost 6GB After I modified command line file it started, but is not showing the buildings.This game is a piece of
+Is not showing VRAM correctly  it says I have 123 VRAM but I have almost 6GB After I modified command line file it started, but is not showing the buildings.This game is a piece of 

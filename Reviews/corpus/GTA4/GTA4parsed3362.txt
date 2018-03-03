@@ -1,1 +1,1 @@
-People  on the game because they are  af, literally took me 10 seconds to find a fix.If that doesnt work and type into the launch options availablevidmem 8000 Remove the 8000 and replace it with how much MB of ram you have
+People  on the game because they are  af, literally took me 10 seconds to find a fix.If that doesnt work and type into the launch options availablevidmem 8000 Remove the 8000 and replace it with how much MB of ram you have 

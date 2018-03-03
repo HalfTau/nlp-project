@@ -1,1 +1,1 @@
-Better than I expected, but need optimize for AMD cards.
+Better than I expected, but need optimize for AMD cards. 

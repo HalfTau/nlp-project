@@ -1,1 +1,1 @@
-Edit to fix the crash at launch open nividia control panel and durn off FXAA
+Edit to fix the crash at launch open nividia control panel and durn off FXAA 

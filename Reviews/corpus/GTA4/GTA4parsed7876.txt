@@ -1,1 +1,1 @@
-Doesnt support AMD Radeon R9 390/x it says the video memory is upto the limit but the graphics card is 8192MB and the game is only using 258 MB, and when I click the benchmark it crashes and says out of memory. My PC AMD FX 8000 Series, 12GB of DDR3 and AMD Radeon R9 300 series.
+Doesnt support AMD Radeon R9 390/x it says the video memory is upto the limit but the graphics card is 8192MB and the game is only using 258 MB, and when I click the benchmark it crashes and says out of memory. My PC AMD FX 8000 Series, 12GB of DDR3 and AMD Radeon R9 300 series. 

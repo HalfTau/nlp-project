@@ -1,1 +1,1 @@
-It will test your gpu, but that was expected. If you have the capibility to run it it is very fun and includes some new features that we have all been waiting for.
+It will test your gpu, but that was expected. If you have the capibility to run it it is very fun and includes some new features that we have all been waiting for. 

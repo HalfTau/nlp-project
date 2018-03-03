@@ -1,1 +1,1 @@
-After fixing the Windows Live problem, the game had an array of bugs. The main one being that I couldnt see the ground and the buildings. The game says that I dont have sufficient memory for the graphics to be anything decent, even though my graphics card has over a 1GB of memory.
+After fixing the Windows Live problem, the game had an array of bugs. The main one being that I couldnt see the ground and the buildings. The game says that I dont have sufficient memory for the graphics to be anything decent, even though my graphics card has over a 1GB of memory. 
